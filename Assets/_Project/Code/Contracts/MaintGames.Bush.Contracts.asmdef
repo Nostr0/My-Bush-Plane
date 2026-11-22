@@ -1,0 +1,14 @@
+{
+    "name": "MaintGames.Bush.Contracts",
+    "rootNamespace": "MaintGames.Bush.Contracts",
+    "references": ["MaintGames.Bush.Foundation"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

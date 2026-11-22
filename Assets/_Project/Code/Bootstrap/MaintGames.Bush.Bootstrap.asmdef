@@ -1,0 +1,14 @@
+{
+    "name": "MaintGames.Bush.Bootstrap",
+    "rootNamespace": "MaintGames.Bush.Bootstrap",
+    "references": ["MaintGames.Bush.Foundation", "MaintGames.Bush.Contracts", "MaintGames.Bush.Infrastructure"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

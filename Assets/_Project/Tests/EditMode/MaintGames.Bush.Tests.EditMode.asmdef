@@ -1,0 +1,14 @@
+{
+    "name": "MaintGames.Bush.Tests.EditMode",
+    "rootNamespace": "MaintGames.Bush.Tests.EditMode",
+    "references": ["UnityEngine.TestRunner", "UnityEditor.TestRunner", "MaintGames.Bush.Foundation", "MaintGames.Bush.Contracts", "MaintGames.Bush.Infrastructure", "MaintGames.Bush.Bootstrap"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": ["nunit.framework.dll"],
+    "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+    "autoReferenced": false,
+    "versionDefines": [],
+    "noEngineReferences": false
+}
