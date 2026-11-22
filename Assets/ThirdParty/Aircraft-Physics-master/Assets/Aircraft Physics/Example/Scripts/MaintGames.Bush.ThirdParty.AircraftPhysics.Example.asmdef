@@ -1,0 +1,16 @@
+{
+    "name": "MaintGames.Bush.ThirdParty.AircraftPhysics.Example",
+    "rootNamespace": "",
+    "references": [
+        "MaintGames.Bush.ThirdParty.AircraftPhysics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

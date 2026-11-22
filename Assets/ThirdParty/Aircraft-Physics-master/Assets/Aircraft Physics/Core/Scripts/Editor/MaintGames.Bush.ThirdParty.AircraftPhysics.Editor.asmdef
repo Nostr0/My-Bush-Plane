@@ -1,0 +1,18 @@
+{
+    "name": "MaintGames.Bush.ThirdParty.AircraftPhysics.Editor",
+    "rootNamespace": "",
+    "references": [
+        "MaintGames.Bush.ThirdParty.AircraftPhysics"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

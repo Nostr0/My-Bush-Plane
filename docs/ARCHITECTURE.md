@@ -2,7 +2,7 @@
 
 Projekt: My Bush Plane (Codename im Code: `Bush`)
 Stand: 21.11.2026, Version 0.1 (Vorschlag für M0)
-Gilt für: Unity 6 LTS, URP, nur PC, Einzelspieler
+Gilt für: Unity `6000.6.9f1`, URP, nur PC, Einzelspieler
 
 ## 1. Zweck und Pflege
 
@@ -42,7 +42,7 @@ my-bush-plane/                  Git-Repository
 │   ├── design/                 Design-Dokumente (z. B. Spielschleife, Progression)
 │   └── performance.md          Budgets und Messprotokolle
 ├── Tools/                      Skripte außerhalb von Unity (Blender-Export, CSV-Aufbereitung)
-├── Game/                       Unity-Projekt (Projektwurzel für Unity Hub und GameCI)
+├── My Bush Plane/              Unity-Projekt (Projektwurzel für Unity Hub und GameCI)
 │   ├── Assets/
 │   ├── Packages/
 │   └── ProjectSettings/
@@ -56,7 +56,7 @@ my-bush-plane/                  Git-Repository
 ## 4. Unity-Projekt-Layout
 
 ```
-Game/Assets/
+/Assets/
 ├── _Project/                   alles Eigene (Unterstrich sortiert nach oben)
 │   ├── Code/                   ein Ordner pro Assembly, asmdef in der Ordnerwurzel
 │   │   ├── Foundation/
